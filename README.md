@@ -12,6 +12,7 @@ Aplicación Web para el manejo de los datos de los clientes.
 * [Eclipse](https://www.eclipse.org/) - IDE
 * [Java](https://www.java.com/) - Lenguaje de programación
 * [Spring Framework 5](https://spring.io/) - Framework desarrollo Backend
+* [TypeScript] (https://www.typescriptlang.org/) - Lenguaje de programacíon
 * [Angular CLI](https://cli.angular.io/) - Framework desarrollo Frontend
 * [Boostrap 4](https://getbootstrap.com/) - Framework web
 * [Jquery](https://jquery.com/) - Librería JS
