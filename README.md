@@ -5,7 +5,7 @@ Proyecto ejemplo de los conocimientos adquiridos en el curso online "[Spring Fra
 ## Descripción
 Aplicación Web para el manejo de los datos de los clientes.
 
-![listar](https://github.com/Victor96Man/Spring5_ApiRest_Angular_ClientsApp/Documentacion/listar.PNG)
+![listar](https://github.com/Victor96Man/Spring5_ApiRest_Angular_ClientsApp/blob/master/Documentacion/listar.PNG)
 
 ## Realizado con
 
